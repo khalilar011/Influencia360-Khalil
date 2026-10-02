@@ -1,0 +1,10 @@
+.Rlib/
+models/
+data/
+R/
+reports/
+Proyectos_BI_2026.Rmd
+README.md
+run_all.R
+Influencia360.Rproj
+.Rprofile

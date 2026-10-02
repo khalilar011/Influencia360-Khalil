@@ -4,3 +4,5 @@
 .Rlib/
 models/*.rds
 
+.vercel
+.env*
